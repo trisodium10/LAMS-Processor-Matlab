@@ -7,3 +7,4 @@
 description~
 *.m~
 *.DS_Store~
+._*.m
