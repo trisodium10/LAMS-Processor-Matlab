@@ -5,3 +5,5 @@
 .gitignore~
 *.DS_Store
 description~
+*.m~
+*.DS_Store~
